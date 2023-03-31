@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @NahueTrassani
-- 👀 I’m interested in Games Development
-- 🌱 I’m currently learning Unreal Engine Development (starting with blueprint and aiming to work with c ++)
-- 💞️ I’m looking to collaborate like Unreal Engine Junior Developer in any proyect and/or team
-- 📫 How to reach me: nahuetrassani@gmail.com
+- 👀 I’m interested in FullStack Development
+- 🌱 I’m currently learning JS and Frameworks
+- 💞️ I’m looking to learn
 
 <!---
 NahueTrassani/NahueTrassani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
